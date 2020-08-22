@@ -1,6 +1,4 @@
-### Hola, I'm Ashutosh Dubey 👋
-
-Here are some ideas to get you started:
+### Hi, I'm Ashutosh Dubey! 👋
 
 - 🔭 I’m currently working on NodeJS
 - 🌱 I’m currently learning React

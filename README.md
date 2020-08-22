@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript,NodeJS,MongoDB,Angular,React-Native
 - 📫 How to reach me: ashubbd2016gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
--->

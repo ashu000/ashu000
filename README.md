@@ -48,16 +48,6 @@ Wallet Integrations | Blockchain APIs
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 [AI-Powered Job Aggregator](https://github.com/your-repo) – Built using **LangChain + LLMs** for smart job recommendations.  
-- 🔹 [Food Recognition App](https://github.com/your-repo) – Uses **Vision Models** to identify food & calculate nutrients.  
-- 🔹 [MEAN Stack CRM](https://github.com/your-repo) – Scalable CRM with role-based access and analytics dashboard.  
-
-➡️ Check out more projects on my [GitHub Repositories](https://github.com/ashu000?tab=repositories).
-
----
-
 ## 🏆 Achievements & Highlights
 - 💼 Delivered **enterprise-grade applications** in healthcare, fintech, and e-commerce domains  
 - 🧩 Designed and implemented **scalable microservices** with Docker & Kubernetes  

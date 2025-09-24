@@ -46,10 +46,6 @@ Wallet Integrations | Blockchain APIs
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu000&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu000&theme=tokyonight" alt="GitHub Streak Stats" height="160"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects

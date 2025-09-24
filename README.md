@@ -54,8 +54,9 @@ Wallet Integrations | Blockchain APIs
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ashu000/ashu000/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/ashu000/ashu000/blob/output/snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
